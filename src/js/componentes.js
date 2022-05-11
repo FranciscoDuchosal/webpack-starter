@@ -11,7 +11,7 @@ export const saludar = ( nombre ) => {
     document.body.append( h1 );
 
     // IMG //
-    const img = document.createElement('img');
-    img.src = webpacklogo;
-    document.body.append( img );
+    // const img = document.createElement('img');
+    // img.src = webpacklogo;
+    // document.body.append( img );
 }
